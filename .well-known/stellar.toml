@@ -1,11 +1,12 @@
 VERSION="23.0.0"
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
----------------
+
 [DOCUMENTATION]
 ORG_NAME="FOREXSTOCK"
 ORG_URL="https://forexstock.github.io"
+ORG_LOGO="https://forexstock.github.io/images/forextokens.png"
 ORG_DESCRIPTION="Trade tokenized fiat currencies (fUSD, fEUR, fJPY) on the Stellar blockchain with zero intermediaries. Powered by XLM and decentralized liquidity."
----------------
+
 [[CURRENCIES]]
 code="fAUD"
 issuer="GB7VVNF7PKJCLVMABT3BBLEMLSUSENMJAYZNQGQZWR7VAWC3OIUPS536"
@@ -18,7 +19,7 @@ display_decimals=2
 is_asset_anchored=true
 anchor_asset_type="crypto"
 anchor_asset="USD"
----------------
+
 [[CURRENCIES]]
 code="fCHF"
 issuer="GB7VVNF7PKJCLVMABT3BBLEMLSUSENMJAYZNQGQZWR7VAWC3OIUPS536"
@@ -31,7 +32,7 @@ display_decimals=2
 is_asset_anchored=true
 anchor_asset_type="crypto"
 anchor_asset="USD"
----------------
+
 [[CURRENCIES]]
 code="fEUR"
 issuer="GB7VVNF7PKJCLVMABT3BBLEMLSUSENMJAYZNQGQZWR7VAWC3OIUPS536"
@@ -44,12 +45,12 @@ display_decimals=2
 is_asset_anchored=true
 anchor_asset_type="crypto"
 anchor_asset="USD"
----------------
+
 [[CURRENCIES]]
 code="fGBP"
 issuer="GB7VVNF7PKJCLVMABT3BBLEMLSUSENMJAYZNQGQZWR7VAWC3OIUPS536"
 name="British Pound"
-desc="The ISO currency code for the British pound is GBP, which stands for "Great British Pound." This code is used in international banking, currency markets, and financial systems to avoid confusion with other currencies."
+desc="The ISO currency code for the British pound is GBP, which stands for (Great British Pound) This code is used in international banking, currency markets, and financial systems to avoid confusion with other currencies."
 image="https://forexstock.github.io/images/fGBP.png"
 conditions="Limited Distribution of 1,000,000 Coins"
 status="live"
@@ -57,7 +58,7 @@ display_decimals=2
 is_asset_anchored=true
 anchor_asset_type="crypto"
 anchor_asset="USD"
----------------
+
 [[CURRENCIES]]
 code="fJPY"
 issuer="GB7VVNF7PKJCLVMABT3BBLEMLSUSENMJAYZNQGQZWR7VAWC3OIUPS536"
@@ -70,7 +71,7 @@ display_decimals=2
 is_asset_anchored=true
 anchor_asset_type="crypto"
 anchor_asset="USD"
----------------
+
 [[CURRENCIES]]
 code="fTRY"
 issuer="GB7VVNF7PKJCLVMABT3BBLEMLSUSENMJAYZNQGQZWR7VAWC3OIUPS536"
@@ -83,7 +84,7 @@ display_decimals=2
 is_asset_anchored=true
 anchor_asset_type="crypto"
 anchor_asset="USD"
----------------
+
 [[CURRENCIES]]
 code="fUSD"
 issuer="GB7VVNF7PKJCLVMABT3BBLEMLSUSENMJAYZNQGQZWR7VAWC3OIUPS536"
@@ -96,7 +97,7 @@ display_decimals=2
 is_asset_anchored=true
 anchor_asset_type="crypto"
 anchor_asset="USD"
----------------
+
 [[CURRENCIES]]
 code="fZAR"
 issuer="GB7VVNF7PKJCLVMABT3BBLEMLSUSENMJAYZNQGQZWR7VAWC3OIUPS536"
@@ -109,4 +110,3 @@ display_decimals=2
 is_asset_anchored=true
 anchor_asset_type="crypto"
 anchor_asset="USD"
----------------
