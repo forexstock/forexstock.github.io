@@ -1,0 +1,112 @@
+VERSION="23.0.0"
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+---------------
+[DOCUMENTATION]
+ORG_NAME="FOREXSTOCK"
+ORG_URL="https://forexstock.github.io"
+ORG_DESCRIPTION="Trade tokenized fiat currencies (fUSD, fEUR, fJPY) on the Stellar blockchain with zero intermediaries. Powered by XLM and decentralized liquidity."
+---------------
+[[CURRENCIES]]
+code="fAUD"
+issuer="GB7VVNF7PKJCLVMABT3BBLEMLSUSENMJAYZNQGQZWR7VAWC3OIUPS536"
+name="Australian Dollars"
+desc="Established in 1966, the Australian dollar (AUD) is the official currency of Australia and several countries and territories, including Christmas Island, Cocos Islands, Norfolk Island, Nauru, Tuvalu, and Kiribati."
+image="https://forexstock.github.io/images/fAUD.png"
+conditions="Limited Distribution of 1,000,000 Coins"
+status="live"
+display_decimals=2
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="USD"
+---------------
+[[CURRENCIES]]
+code="fCHF"
+issuer="GB7VVNF7PKJCLVMABT3BBLEMLSUSENMJAYZNQGQZWR7VAWC3OIUPS536"
+name="Swiss Franc"
+desc="Introduced in 1850, the Swiss franc (CHF) is the official currency of Switzerland, Liechtenstein and the Italian exclave of Campione d'Italia, and is the only franc remaining in Europe."
+image="https://forexstock.github.io/images/fCHF.png"
+conditions="Limited Distribution of 1,000,000 Coins"
+status="live"
+display_decimals=2
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="USD"
+---------------
+[[CURRENCIES]]
+code="fEUR"
+issuer="GB7VVNF7PKJCLVMABT3BBLEMLSUSENMJAYZNQGQZWR7VAWC3OIUPS536"
+name="Euro"
+desc="The euro (symbol: €; currency code: EUR) is the official currency of 20 of the 27 member states of the European Union. This group of states is officially known as the euro area or, more commonly, the eurozone."
+image="https://forexstock.github.io/images/fEUR.png"
+conditions="Limited Distribution of 1,000,000 Coins"
+status="live"
+display_decimals=2
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="USD"
+---------------
+[[CURRENCIES]]
+code="fGBP"
+issuer="GB7VVNF7PKJCLVMABT3BBLEMLSUSENMJAYZNQGQZWR7VAWC3OIUPS536"
+name="British Pound"
+desc="The ISO currency code for the British pound is GBP, which stands for "Great British Pound." This code is used in international banking, currency markets, and financial systems to avoid confusion with other currencies."
+image="https://forexstock.github.io/images/fGBP.png"
+conditions="Limited Distribution of 1,000,000 Coins"
+status="live"
+display_decimals=2
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="USD"
+---------------
+[[CURRENCIES]]
+code="fJPY"
+issuer="GB7VVNF7PKJCLVMABT3BBLEMLSUSENMJAYZNQGQZWR7VAWC3OIUPS536"
+name="Japanese yen"
+desc="JPY is the abbreviation for the Japanese yen, the currency of Japan. The yen is often represented with a symbol that looks like the capital letter Y with two horizontal dashes through the center: ¥"
+image="https://forexstock.github.io/images/fJPY.png"
+conditions="Limited Distribution of 1,000,000 Coins"
+status="live"
+display_decimals=2
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="USD"
+---------------
+[[CURRENCIES]]
+code="fTRY"
+issuer="GB7VVNF7PKJCLVMABT3BBLEMLSUSENMJAYZNQGQZWR7VAWC3OIUPS536"
+name="Turkish Lira"
+desc="The Turkish lira, usually abbreviated as TL, is the official currency of Turkey and the Turkish Republic of Northern Cyprus. Its symbol is ₺ and its official currency code is TRY. The most popular lira exchange is with the euro."
+image="https://forexstock.github.io/images/fTRY.png"
+conditions="Limited Distribution of 1,000,000 Coins"
+status="live"
+display_decimals=2
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="USD"
+---------------
+[[CURRENCIES]]
+code="fUSD"
+issuer="GB7VVNF7PKJCLVMABT3BBLEMLSUSENMJAYZNQGQZWR7VAWC3OIUPS536"
+name="United States Dollar"
+desc="The USD (United States dollar) is the official currency of the United States of America. The United States dollar, or U.S. dollar, is made up of 100 cents. It is represented by the symbol $ or US$ to differentiate it from other dollar-based currencies."
+image="https://forexstock.github.io/images/fUSD.png"
+conditions="Limited Distribution of 1,000,000 Coins"
+status="live"
+display_decimals=2
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="USD"
+---------------
+[[CURRENCIES]]
+code="fZAR"
+issuer="GB7VVNF7PKJCLVMABT3BBLEMLSUSENMJAYZNQGQZWR7VAWC3OIUPS536"
+name="South African Rand"
+desc="South African Rand (ZAR) The South African rand is the currency of South Africa. Its symbol is simply 'R', and its currency code is ZAR, from the Dutch 'zuid-afrikaanse rand', or South African rand. The rand is fiat money, and its conversion factor has 6 significant digits."
+image="https://forexstock.github.io/images/fZAR.png"
+conditions="Limited Distribution of 1,000,000 Coins"
+status="live"
+display_decimals=2
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="USD"
+---------------
